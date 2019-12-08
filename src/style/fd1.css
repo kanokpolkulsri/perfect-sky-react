@@ -1,0 +1,74 @@
+.init-bg {
+	z-index: 1000;
+	opacity: 0.2;
+}
+
+img {
+	position: absolute;
+}
+
+.bg {
+	z-index: -1;
+}
+
+.kingpower-logo-blue {
+	top: 185px;
+	left: 75px;
+}
+
+.logo-skyride {
+	top: 310px;
+	left: 840px;
+}
+
+.headline-skyride {
+	top: 710px;
+	left: 107px;
+}
+
+.lev-1 {
+	top: 1015px;
+	left: 175px;
+}
+
+.text-1 {
+	top: 1035px;
+	left: 395px;
+}
+
+.big-img-1 {
+	top: 1540px;
+	left: 0px;
+}
+
+.dec-1 {
+	top: 1375px;
+	left: 1650px;
+}
+
+.dec-2 {
+	top: 2500px;
+	left: -15px;
+}
+
+.text-2 {
+	top: 3030px;
+	left: 415px;
+}
+
+.hexa-frame-1,
+.hexa-img-1 {
+	top: 2830px;
+	left: 930px;
+}
+
+.hexa-frame-2,
+.hexa-img-2 {
+	top: 3430px;
+	left: 580px;
+}
+
+.big-img-2 {
+	top: 4800px;
+	left: 0px;
+}

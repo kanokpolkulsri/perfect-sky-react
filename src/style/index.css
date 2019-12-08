@@ -1,0 +1,130 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0px;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+
+img {
+	position: absolute;
+}
+
+div.prx {
+	position: absolute;
+	background-position: center 25%;
+	-webkit-mask-image: url(../images/hexa-mask.png);
+	width: 706px;
+	height: 823px;
+}
+
+div.hexa-small {
+	-webkit-mask-image: url(../images/hexa-small-mask.png);
+	width: 350px;
+	height: 408px;
+}
+
+img.prx {
+	position: initial;
+	visibility:  hidden;
+}
+
+img.hexa-frame {
+	z-index: 1;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
+/* right-menu */
+
+.side-bar {
+	top: 0px;
+	left: 1860px;
+	width: 320px;
+}
+
+div.en-lang,
+div.th-lang,
+div.cn-lang {
+	position: absolute;
+	width: 302px;
+	height: 128px;
+}
+
+.en-bg,
+.en-lang {
+	top: 257px;
+	right: 0px;
+}
+
+.en-flag {
+	top: 280px;
+	left: 1895px;
+}
+
+.en {
+	top: 300px;
+	left: 2015px;
+}
+
+.th-bg,
+.th-lang {
+	top: 382px;
+	right: 0px;
+}
+
+.th-flag {
+	top: 405px;
+	left: 1895px;
+}
+
+.th {
+	top: 425px;
+	left: 2015px;
+}
+
+.cn-bg,
+.cn-lang {
+	top: 508px;
+	right: 0px;
+}
+
+.cn-flag {
+	top: 526px;
+	left: 1895px;
+}
+
+.cn {
+	top: 546px;
+	left: 2015px;
+}
+
+.back {
+	top: 1370px;
+	left: 1970px;
+}
+
+.home {
+	top: 1420px;
+	left: 1967px;
+}
+
+.arrow-up {
+	top: 1620px;
+	left: 1965px;
+}
+
+.arrow-down {
+	top: 1770px;
+	left: 1965px;
+}
+
+/* ------------ */

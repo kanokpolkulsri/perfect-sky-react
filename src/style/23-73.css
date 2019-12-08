@@ -1,0 +1,72 @@
+.init-bg {
+	z-index: 1000;
+	opacity: 0.2;
+}
+
+img {
+	position: absolute;
+}
+
+.side-bar {
+	height: 5700px;
+}
+
+.bg {
+	z-index: -1;
+}
+
+.kingpower-logo-blue {
+	top: 185px;
+	left: 75px;
+}
+
+.ritz-logo {
+	top: 257px;
+	left: 785px;
+}
+
+.headline-ritz {
+	top: 705px;
+	left: 100px;
+}
+
+.lev-23-73 {
+	top: 1015px;
+	left: 120px;
+}
+
+.text-1 {
+	top: 1025px;
+	left: 395px;
+}
+
+.big-img-1 {
+	top: 1700px;
+	left: 0px;
+}
+
+.dec-1 {
+	top: 1545px;
+	left: 1660px;
+}
+
+.dec-2 {
+	top: 2665px;
+	left: -15px;
+}
+
+.text-2 {
+	top: 2885px;
+	left: 395px;
+}
+
+.hexa-frame-1,
+.hexa-img-1 {
+	top: 3240px;
+	left: 760px;
+}
+
+.big-img-2 {
+	top: 4580px;
+	left: 0px;
+}

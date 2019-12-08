@@ -1,0 +1,89 @@
+.init-bg {
+	z-index: 1000;
+	opacity: 0.2;
+}
+
+img {
+	position: absolute;
+}
+
+.bg {
+	z-index: -1;
+}
+
+.side-bar {
+	height: 7269px;
+}
+
+.kingpower-logo-white {
+	top: 185px;
+	left: 75px;
+}
+
+.logo-maha-nakhon {
+	top: 190px;
+	left: 860px;
+}
+
+.headline-skybar {
+	top: 710px;
+	left: 107px;
+}
+
+.lev-76-77 {
+	top: 1020px;
+	left: 125px;
+}
+
+.text-1 {
+	top: 1005px;
+	left: 395px;
+}
+
+.big-img-1 {
+	top: 1720px;
+	left: 0px;
+}
+
+.dec-1 {
+	top: 1560px;
+	left: 1645px;
+}
+
+.dec-2 {
+	top: 2680px;
+	left: -15px;
+}
+
+.text-2 {
+	top: 2980px;
+	left: 390px;
+}
+
+.hexa-frame-1,
+.hexa-img-1 {
+	top: 3210px;
+	left: 760px;
+}
+
+.text-3 {
+	top: 4125px;
+	left: 390px;
+}
+
+.hexa-frame-2,
+.hexa-img-2 {
+	top: 4510px;
+	left: 1105px;
+}
+
+.hexa-frame-3,
+.hexa-img-3 {
+	top: 5000px;
+	left: 410px;
+}
+
+.big-img-2 {
+	top: 6150px;
+	left: 0px;
+}

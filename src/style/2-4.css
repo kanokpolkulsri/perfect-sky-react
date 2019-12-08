@@ -1,0 +1,103 @@
+.init-bg {
+	z-index: 1000;
+	opacity: 0.2;
+}
+
+img {
+	position: absolute;
+}
+
+.side-bar {
+	height: 7098px;
+}
+
+.bg {
+	z-index: -1;
+}
+
+.kingpower-logo-white {
+	top: 185px;
+	left: 75px;
+}
+
+.kingpower-logo {
+	top: 240px;
+	left: 895px;
+}
+
+.headline-duty-free {
+	top: 715px;
+	left: 75px;
+}
+
+.lev-2-4 {
+	top: 1020px;
+	left: 175px;
+}
+
+.text-1 {
+	top: 1175px;
+	left: 400px;
+}
+
+.big-img-1 {
+	top: 1720px;
+	left: 0px;
+}
+
+.dec-1 {
+	top: 1580px;
+	left: 1640px;
+}
+
+.dec-2 {
+	top: 2700px;
+	left: 0px;
+}
+
+.duty-free-hl-tx {
+	top: 2980px;
+	left: 670px;
+}
+
+.hexa-frame-1,
+.hexa-img-1 {
+	top: 3355px;
+	left: 105px;
+}
+
+.hexa-frame-2,
+.hexa-img-2 {
+	top: 3540px;
+	left: 905px;
+	width: 350px;
+}
+
+.hexa-frame-3,
+.hexa-img-3 {
+	top: 3680px;
+	left: 1320px;
+	width: 350px;
+}
+
+.hexa-frame-4,
+.hexa-img-4 {
+	top: 4145px;
+	left: 1135px;
+}
+
+.hexa-frame-5,
+.hexa-img-5 {
+	top: 4950px;
+	left: 435px;
+}
+
+.text-2 {
+	top: 4275px;
+	left: 107px;
+}
+
+.big-img-2 {
+	top: 5975px;
+	left: 0px;
+}

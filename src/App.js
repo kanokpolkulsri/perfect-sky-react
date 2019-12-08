@@ -1,26 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react'
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import Fd2 from './Fd2'
+import Fd2Cn from './Fd2Cn'
+
+class App extends Component {
+  render(){
+    return (
+      <BrowserRouter>
+        <Switch>
+            <Route path='/' component={Fd2} exact />
+            {/* <Route path='/fd2' component={Fd2} exact /> */}
+            {/* <Route path='/fd2/th' component={Fd2} exact /> */}
+            <Route path='/cn' component={Fd2Cn} exact />
+          </Switch>
+      </BrowserRouter>
+    )
+  }
 }
 
-export default App;
+export default App
